@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: tn.backend.isimm.service.UserServiceIT
--------------------------------------------------------------------------------
-Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.445 s -- in tn.backend.isimm.service.UserServiceIT

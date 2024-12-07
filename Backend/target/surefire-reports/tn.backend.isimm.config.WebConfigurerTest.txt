@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: tn.backend.isimm.config.WebConfigurerTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.073 s -- in tn.backend.isimm.config.WebConfigurerTest
